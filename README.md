@@ -1,7 +1,11 @@
-## RPi4 SETUP:
+## RPi4 <-> PERIPHERAL SETUP:
 ### RGB Chip:
-
+red <-> RPi pin 32
+green <-> RPi pin 22
+blue <-> RPi pin 33
 ### HC-SR04 Chip:
+trig <-> RPi pin 15
+echo <-> RPi pin 16
 
 ## TO BUILD PROJECT:
 in shell, type "make"; executable will be named "main"
