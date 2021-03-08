@@ -1,3 +1,8 @@
+## RPi4 SETUP:
+### RGB Chip:
+
+### HC-SR04 Chip:
+
 ## TO BUILD PROJECT:
 in shell, type "make"; executable will be named "main"
 
