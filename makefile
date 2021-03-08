@@ -1,2 +1,2 @@
-make: assignment2.c
-	gcc assignment2.c -o assignment2 -lpthread -lgpiod -lrt -Wall
+make: source.c
+	gcc source.c -o main -lpthread -lgpiod -lrt -Wall
