@@ -9,7 +9,7 @@ gnd <-> any RPi gnd
 
 trig <-> RPi pin 15  
 echo <-> RPi pin 16  
-vcc <-> RPi pin 2 OR 4 (any 5V)
+vcc <-> RPi pin 2 OR 4 (any 5V)  
 gnd <-> any RPi gnd
 
 ## TO BUILD PROJECT:
